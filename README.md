@@ -66,7 +66,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-4. Access the application at `(https://larisdatastorytelling.streamlit.app/)`
+4. Access the application at (https://larisdatastorytelling.streamlit.app)
 
 ## Deployment on Streamlit Cloud
 
@@ -243,3 +243,4 @@ For technical issues or questions:
 3. Verify filter settings and selections
 
 4. Consult the business analysis framework documentation
+
