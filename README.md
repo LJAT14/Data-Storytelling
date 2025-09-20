@@ -66,7 +66,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-4. Access the application at `http://localhost:8501`
+4. Access the application at `(https://larisdatastorytelling.streamlit.app/)`
 
 ## Deployment on Streamlit Cloud
 
@@ -76,7 +76,7 @@ streamlit run app.py
 3. Verify the main application file is named `app.py`
 
 ### Streamlit Cloud Deployment
-1. Visit [(https://share.streamlit.io)](https://larisdatastorytelling.streamlit.app/)]
+1. Visit [share.streamlit.io](https://share.streamlit.io)
 2. Connect your GitHub account
 3. Select your repository and branch
 4. Set the main file path: `app.py`
