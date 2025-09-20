@@ -76,7 +76,7 @@ streamlit run app.py
 3. Verify the main application file is named `app.py`
 
 ### Streamlit Cloud Deployment
-1. Visit [share.streamlit.io](https://share.streamlit.io)
+1. Visit [(https://share.streamlit.io)](https://larisdatastorytelling.streamlit.app/)]
 2. Connect your GitHub account
 3. Select your repository and branch
 4. Set the main file path: `app.py`
@@ -241,4 +241,5 @@ For technical issues or questions:
 1. Review the troubleshooting section
 2. Check data formats and column requirements
 3. Verify filter settings and selections
+
 4. Consult the business analysis framework documentation
